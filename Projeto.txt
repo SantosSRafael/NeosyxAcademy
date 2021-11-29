@@ -4,5 +4,8 @@ Modificação 03
 Modificação 04
 Modificação 05 --fork
 Modificação 06 --fork
+<<<<<<< HEAD
 Modificação 07
 Modificação 08
+=======
+>>>>>>> parent of 41116ab (Atualização 1.6)
